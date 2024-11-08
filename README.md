@@ -1,16 +1,18 @@
 # libnotif
 
-A new Flutter project.
+A Flutter app for library notifications, tracking borrowed and returned books, with an admin dashboard for librarians to manage and update records.
 
-## Getting Started
+## Working
 
-This project is a starting point for a Flutter application.
+![Alt text](Screenshots/Screenshot1.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+![Alt text](Screenshots/Screenshot2.jpg)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Alt text](Screenshots/Screenshot3.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Alt text](Screenshots/Screenshot5.jpg)
+
+![Alt text](Screenshots/Screenshot4.jpg)
+
+![Alt text](Screenshots/Screenshot6.jpg)
+
